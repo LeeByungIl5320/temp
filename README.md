@@ -1,5 +1,9 @@
-일반적인 코드 
+```
+손 쉽게 만들 수 있는
+코드블럭
+```
 
-	tab들여쓰기로 만들어진 code 입니다.
-
-일반적인 코드
+``` C
+printf("Hello world !\n");
+printf("code Block \n");
+```
