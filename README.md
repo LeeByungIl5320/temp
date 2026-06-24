@@ -1,3 +1,13 @@
+_This will also be italic_
+
+**This will also be bold**
+
+~~This is canceled~~
+
+_You **can** ~~combine~~ them_
+
+
+
 This is an H1
 ===
 This is an H2
@@ -25,3 +35,6 @@ Oh my my my oh my my my
 
 You got me fly so fast <br>
 이제 조금은 나 알겠어
+
+
+
