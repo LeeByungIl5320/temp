@@ -1,18 +1,6 @@
-마크다운에서 이미지를 저장하고자 할 때가 있다.
+![에이블디 로고](https://abledcorp.com/src/icons/abled_logo.svg)
 
 
-### 기본 문법(사이즈 조정 안됨)
-```![Alt text](https://image-path.blah.com/blah.png)```
-
-### github 저장소에 있는 이미지 파일을 삽입할 때
-```![Alt text](https://raw.githubusercontent.com/username/reponame/branch/path-to/image.png)```
-
-ex) ```![Alt text](https://raw.githubusercontent.com/queryholic/captures/master/lombok-install-eclipse/_1.png)```
-
-### 사이즈 조정을 원할 경우
-사이즈 조정을 하려면 img 태그로 감싸면 된다.
-
-```<img src="https://raw.githubusercontent.com/queryholic/captures/master/lombok-install-eclipse/_1.png" width="650" height="400" />```
 * 특수문자 출력안됨
 - 특수문자 출력안됨
 
